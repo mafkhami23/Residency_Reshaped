@@ -1,11 +1,7 @@
 # Kano_Analysis
-To write a proper GitHub README for the file you provided (`Kano.py`), it would be helpful to know a bit about its functionality. However, I can start drafting a generic structure that you can tailor further as needed. Here's a sample GitHub README based on a Python project:
 
----
 
-# Kano.py
-
-**Kano.py** is a Python script or module that [provide a brief description of the script's purpose]. This project is based on the principles of [Kano Model, if that's the reference], which is often used in product development and customer satisfaction analysis.
+This project is based on the principles of Kano Model, which is often used in product development and customer satisfaction analysis.
 
 ## Table of Contents
 
