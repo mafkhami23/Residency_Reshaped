@@ -43,10 +43,20 @@ kano.some_function()
 ```
 
 ## Features
+- **[Data Cleaning]**:
+- The script includes data cleaning steps, such as setting column headers, removing unwanted rows, and preparing the dataset for further analysis.
 
-- **[Feature 1]**: Describe what the first major feature does.
-- **[Feature 2]**: Describe another feature.
-- **[Feature 3]**: Highlight additional functionalities or integrations.
+ - **[Data Duplication for Backup]**:
+ - The code creates a duplicate of the original dataset (dq=df) for safe manipulation without altering the original data.
+
+- **[Kano Model Analysis:]**
+- The script implements the Kano model, which is used to classify customer preferences into categories (e.g., must-haves, performance attributes, and delighters) to understand and prioritize product features based on their impact on satisfaction.
+
+- **[Kano Data Processing]**:
+- The script likely includes logic to process survey data and classify responses into the Kano categories, possibly using responses related to expectations versus satisfaction.
+
+- **[Kano Graphic Generation]**:
+- Using libraries like matplotlib or seaborn, the script generates Kano graphics, which visually represent the relationship between product features and customer satisfaction.
   
 ## Example
 
