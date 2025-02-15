@@ -24,8 +24,8 @@ Improve decision-making by distinguishing between critical needs and optional en
 Optimize resources by focusing on high-impact improvements before adding new features.
 Enhance customer experience by aligning development with user expectations.
 This tool provides real estate developers with a data-driven approach to product and service design, ensuring that investments align with market demands and maximize customer satisfaction.
-
-This project is based on the principles of Kano Model, which is often used in product development and customer satisfaction analysis.
+A sense of how your features are perceived in terms of usefulness and functionality.
+How urgently these features are needed
 
 
 
@@ -38,7 +38,12 @@ This project is based on the principles of Kano Model, which is often used in pr
 ![Kano_Age_Inunit_Table](https://github.com/user-attachments/assets/b70d72f5-4459-4a62-9028-0a56b2576b97)
 
 - **[Kano Data Processing]**:
-- The script includes logic to process survey data and classify responses into the Kano categories, using responses related to expectations versus satisfaction.
+- The script includes logic to process survey data and classify responses into the Kano categories, using responses related to expectations versus satisfaction. Creating groups based on the variables such as location or the age group
+![Kano_Age_Neighborhood_1](https://github.com/user-attachments/assets/7e18f395-0eed-48b1-b0a3-6a28b7bc471b)
+
+![Kano_Age_Neighborhood_2](https://github.com/user-attachments/assets/a331925a-7905-432f-89f4-d90cb0d03304)
+![Kano_Age_Neighborhood_3](https://github.com/user-attachments/assets/00abae61-71ae-458c-8e96-14fb824e2233)
+![Kano_Age_Neighborhood_4](https://github.com/user-attachments/assets/80bd31d7-e94d-4da9-9267-8863918ba143)
 
 - **[Kano Graphic Generation]**:
 - Using libraries like matplotlib or seaborn, the script generates Kano graphics, which visually represent the relationship between product features and customer satisfaction.
