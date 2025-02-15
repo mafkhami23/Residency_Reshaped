@@ -6,11 +6,11 @@ Understanding customer needs and preferences is crucial for real estate develope
 By analyzing user responses, this model helps identify which features require immediate attention to improve performance and which can be prioritized for future development. This ensures that development efforts are focused on the most impactful aspects before introducing new features.
 How the Kano Model Works
 The Kano Model categorizes customer reactions into five distinct types, helping developers align their offerings with user expectations:
--Must-have (Basic Features) – Essential features that users expect. Their absence leads to dissatisfaction, but their presence doesn’t necessarily increase satisfaction.
--Performance (One-dimensional Features) – Features that directly impact user satisfaction; the better they are implemented, the happier users become.
--Attractive (Delighters) – Unexpected features that pleasantly surprise users and significantly boost satisfaction when present.
--Indifferent – Features that have little to no impact on user satisfaction.
--Reverse – Features that some users may dislike or prefer not to have.</br>
+- Must-have (Basic Features);Essential features that users expect. Their absence leads to dissatisfaction, but their presence doesn’t necessarily increase satisfaction.
+- Performance (One-dimensional Features); Features that directly impact user satisfaction; the better they are implemented, the happier users become.
+- Attractive (Delighters); Unexpected features that pleasantly surprise users and significantly boost satisfaction when present.
+- Indifferent; Features that have little to no impact on user satisfaction.
+- Reverse; Features that some users may dislike or prefer not to have.</br>
 
 ![Kano_Overall_Neighborhood](https://github.com/user-attachments/assets/70a95717-3833-417f-813a-2279d88124ee)
 
