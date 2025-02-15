@@ -40,7 +40,6 @@ How urgently these features are needed
 - **[Kano Data Processing]**:
 - The script includes logic to process survey data and classify responses into the Kano categories, using responses related to expectations versus satisfaction. Creating groups based on the variables such as location or the age group
 ![Kano_Age_Neighborhood_1](https://github.com/user-attachments/assets/7e18f395-0eed-48b1-b0a3-6a28b7bc471b)
-
 ![Kano_Age_Neighborhood_2](https://github.com/user-attachments/assets/a331925a-7905-432f-89f4-d90cb0d03304)
 ![Kano_Age_Neighborhood_3](https://github.com/user-attachments/assets/00abae61-71ae-458c-8e96-14fb824e2233)
 ![Kano_Age_Neighborhood_4](https://github.com/user-attachments/assets/80bd31d7-e94d-4da9-9267-8863918ba143)
