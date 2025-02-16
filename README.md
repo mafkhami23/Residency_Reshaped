@@ -32,15 +32,15 @@ A sense of how your features are perceived in terms of usefulness and functional
 - **Data Cleaning**:
 - The script includes data cleaning steps, such as setting column headers, removing unwanted rows, and preparing the dataset for further analysis.
 
-- **Kano Model Analysis:**
+### **Kano Model Analysis:**
 - The script implements the Kano model, which is used to classify customer preferences into categories (e.g., must-haves, performance attributes, and delighters) to understand and prioritize product features based on their impact on satisfaction.
 ![Kano_Age_Inunit_Table](https://github.com/user-attachments/assets/b70d72f5-4459-4a62-9028-0a56b2576b97)
 
-- **Kano Model Survey Data Processing**:
+### **Kano Model Survey Data Processing**:
 
 This script processes survey data to classify responses into **Kano categories** based on the relationship between **expectations and satisfaction**. The logic behind the classification allows for insights into customer preferences by evaluating how different features impact user experience.
 
-### Features of the Script:
+### **Features of the Script**:
 - **Kano Classification:** Categorizes responses into **Must-Have, Performance, Attractive, Indifferent, and Reverse** based on survey data.
 - **Grouping Variables:** Allows segmentation based on factors such as:
   - **Location**
@@ -58,6 +58,6 @@ This script provides a **structured approach to Kano Analysis**, helping teams u
 ![Kano_Age_Neighborhood_3](https://github.com/user-attachments/assets/00abae61-71ae-458c-8e96-14fb824e2233)
 ![Kano_Age_Neighborhood_4](https://github.com/user-attachments/assets/80bd31d7-e94d-4da9-9267-8863918ba143)
 
-- **Kano Graphic Generation**:
+### **Kano Graphic Generation**:
 - Using libraries like matplotlib or seaborn, the script generates Kano graphics, which visually represent the relationship between product features and customer satisfaction.
   
