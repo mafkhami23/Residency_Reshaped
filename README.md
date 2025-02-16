@@ -24,12 +24,11 @@ Improve decision-making by distinguishing between critical needs and optional en
 Optimize resources by focusing on high-impact improvements before adding new features.
 Enhance customer experience by aligning development with user expectations.
 This tool provides real estate developers with a data-driven approach to product and service design, ensuring that investments align with market demands and maximize customer satisfaction.
-A sense of how your features are perceived in terms of usefulness and functionality.
-How urgently these features are needed
+A sense of how your features are perceived in terms of usefulness and functionality as well as how urgently these features are needed using the importance factor
 
 
 
-## Features
+## Code Features
 - **[Data Cleaning]**:
 - The script includes data cleaning steps, such as setting column headers, removing unwanted rows, and preparing the dataset for further analysis.
 
