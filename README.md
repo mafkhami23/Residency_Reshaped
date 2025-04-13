@@ -113,4 +113,4 @@ This structured Kano analysis empowers **real estate developers** to:
 
 **Mahdi Afkhami, PhD**  
 Design Researcher | UX Strategist | Sustainability Specialist  
-[LinkedIn](https://www.linkedin.com/in/mahdi-afkhami) | mahdi.afkhami@email.com
+[LinkedIn](https://www.linkedin.com/in/mahdi-afkhami) 
