@@ -12,6 +12,18 @@ The Kano Model categorizes customer reactions into five distinct types, helping 
 - Indifferent; Features that have little to no impact on user satisfaction.
 - Reverse; Features that some users may dislike or prefer not to have.</br>
 
+
+## 🧪 Methods
+- Mixed Methods Research (Qual + Quant)
+- Survey Design & Analysis (n = XXX)
+- Semi-Structured Interviews
+- Behavioral Mapping
+- Journey Mapping
+- Affinity Clustering
+- Persona Development
+- Data Visualization
+- UX Recommendations
+
 ![Kano_Overall_Neighborhood](https://github.com/user-attachments/assets/70a95717-3833-417f-813a-2279d88124ee)
 
 
