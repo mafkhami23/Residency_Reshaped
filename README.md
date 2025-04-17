@@ -42,10 +42,12 @@ The **Kano Model** classifies features into five categories:
 ## 📊 Key Visuals
 
 ### Neighborhood Preferences
-![Kano_Overall_Neighborhood](https://github.com/user-attachments/assets/70a95717-3833-417f-813a-2279d88124ee)
+![Kano_Overall_Neighborhood](https://github.com/user-attachments/assets/cb9237cc-6708-4485-b009-970c4774c229)
+
 
 ### In-Unit Features
-![Kano_Overall_Inunit](https://github.com/user-attachments/assets/6da007d9-fd01-486a-b170-33293c5df9b2)
+![Kano_Overall_Inunit](https://github.com/user-attachments/assets/22fae08d-a196-44af-a7e6-d002869745f3)
+
 
 ---
 
@@ -93,10 +95,11 @@ Example:
 
 ## 📂 Age-Based Insights (Neighborhood Features)
 
-![Kano_Age_Neighborhood_1](https://github.com/user-attachments/assets/7e18f395-0eed-48b1-b0a3-6a28b7bc471b)
-![Kano_Age_Neighborhood_2](https://github.com/user-attachments/assets/a331925a-7905-432f-89f4-d90cb0d03304)
-![Kano_Age_Neighborhood_3](https://github.com/user-attachments/assets/00abae61-71ae-458c-8e96-14fb824e2233)
-![Kano_Age_Neighborhood_4](https://github.com/user-attachments/assets/80bd31d7-e94d-4da9-9267-8863918ba143)
+![Kano_Age_Neighborhood_1](https://github.com/user-attachments/assets/85df0e7c-cce4-408f-bc76-8117f0ca93eb)
+![Kano_Age_Neighborhood_2](https://github.com/user-attachments/assets/26e42563-7df4-4f77-8738-ca3ce63b0249)
+![Kano_Age_Neighborhood_3](https://github.com/user-attachments/assets/9f54f656-3149-4428-8e3c-6eb927a88175)
+![Kano_Age_Neighborhood_4](https://github.com/user-attachments/assets/5d52efd2-2703-40ad-9254-f98b4899db54)
+
 
 ---
 
