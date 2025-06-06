@@ -120,8 +120,8 @@ This structured Kano analysis empowers **real estate developers** to:
 
 ## 📚 Publications & References
 
-![Insights from Residency Reshaped Report](https://multifamilyaffordablehousing.com/corgan-study-finds-affordability-is-top-priority-for-renters-offers-solutions-for-landlords/)
-![Corgan Study Finds Affordability is Top Priority for Renters, Offers Solutions for Landlords](https://multifamilyaffordablehousing.com/corgan-study-finds-affordability-is-top-priority-for-renters-offers-solutions-for-landlords/)
+- [Insights from Residency Reshaped Report](https://multifamilyaffordablehousing.com/corgan-study-finds-affordability-is-top-priority-for-renters-offers-solutions-for-landlords/)
+- [Corgan Study Finds Affordability is Top Priority for Renters, Offers Solutions for Landlords](https://multifamilyaffordablehousing.com/corgan-study-finds-affordability-is-top-priority-for-renters-offers-solutions-for-landlords/)
 
 ## 🧑‍💼 Contact
 
