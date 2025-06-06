@@ -1,5 +1,5 @@
-# 🏙️ Kano Analysis Model for Real Estate Development
-**Strategic User Research for Data-Driven Decision Making**
+# 🏙️Strategic User Research for Data-Driven Decision Making 
+**Kano Analysis Model for Real Estate Development**
 
 ![Kano Overview](https://github.com/user-attachments/assets/9fef7aa5-0b87-4ef2-b09e-d84dadc5a654)
 
@@ -117,6 +117,11 @@ This structured Kano analysis empowers **real estate developers** to:
 - Design **user-centered environments** based on data, not assumptions
 
 ---
+
+## 📚 Publications & References
+
+[Insights from Residency Reshaped Report](https://multifamilyaffordablehousing.com/corgan-study-finds-affordability-is-top-priority-for-renters-offers-solutions-for-landlords/)
+[Corgan Study Finds Affordability is Top Priority for Renters, Offers Solutions for Landlords](https://multifamilyaffordablehousing.com/corgan-study-finds-affordability-is-top-priority-for-renters-offers-solutions-for-landlords/)
 
 ## 🧑‍💼 Contact
 
