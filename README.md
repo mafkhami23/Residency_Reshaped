@@ -1,13 +1,14 @@
 # 🏙️ Kano Analysis Model for Real Estate Development
+**Strategic User Research for Data-Driven Decision Making**
 
 ![Kano Overview](https://github.com/user-attachments/assets/9fef7aa5-0b87-4ef2-b09e-d84dadc5a654)
 
-Understanding customer needs and preferences is essential for developers aiming to create competitive, high-performing real estate. This project applies the **Kano Model** to prioritize features based on their impact on **user satisfaction and expectations**.
+## 🧠 Overview  
+This project demonstrates the application of the **Kano Model** within a real estate development context to extract actionable insights from users. Built with a blend of **quantitative and qualitative research**, this analysis helps decision-makers prioritize features based on **true customer value**, improving both user experience and business outcomes.
 
-By analyzing survey responses, this approach helps identify:
-- Features that are essential (Must-Haves)
-- Features that boost satisfaction (Performance & Attractive)
-- Features with little or negative value (Indifferent or Reverse)
+> 🔍 **Why it matters for Design Researchers:**  
+This project exemplifies how structured primary research, supported by behavioral data, can **accelerate learning**, **shape product roadmaps**, and **influence stakeholders**—aligning perfectly with Capital One’s mission to embed humanity into strategic decisions.
+
 
 ---
 
@@ -29,17 +30,22 @@ The **Kano Model** classifies features into five categories:
 
 - Mixed Methods Research (Qual + Quant)
 - Survey Design & Analysis (n = 1,000)
-- Semi-Structured Interviews
-- Behavioral Mapping
-- Journey Mapping
-- Affinity Clustering
-- Persona Development
-- Data Visualization
-- UX Recommendations
+- Semi-structured interviews with potential renters and buyers
+- Journey mapping and behavioral mapping  
+- Data visualization for cross-functional storytelling  
 
 ---
 
-## 📊 Key Visuals
+## 🎯 Impact & Relevance  
+
+- 🔹 **Prioritize investments**: Target high-impact features for development  
+- 🔹 **Improve customer experience**: Align design decisions with actual user needs  
+- 🔹 **Accelerate product strategy**: Identify quick wins and long-term differentiators  
+- 🔹 **Enable cross-functional clarity**: Share visual, data-backed findings with stakeholders  
+
+
+---
+## 📊 Visualization Highlights 
 
 ### Neighborhood Preferences
 ![Kano_Overall_Neighborhood](https://github.com/user-attachments/assets/cb9237cc-6708-4485-b009-970c4774c229)
