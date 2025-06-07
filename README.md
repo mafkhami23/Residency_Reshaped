@@ -6,9 +6,6 @@
 ## 🧠 Overview  
 This project demonstrates the application of the **Kano Model** within a real estate development context to extract actionable insights from users. Built with a blend of **quantitative and qualitative research**, this analysis helps decision-makers prioritize features based on **true customer value**, improving both user experience and business outcomes.
 
-> 🔍 **Why it matters for Design Researchers:**  
-This project exemplifies how structured primary research, supported by behavioral data, can **accelerate learning**, **shape product roadmaps**, and **influence stakeholders**—aligning perfectly with Capital One’s mission to embed humanity into strategic decisions.
-
 
 ---
 
